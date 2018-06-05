@@ -1,2 +1,2 @@
-# 实现上滑隐藏导航栏
-通过自定义CoordinatorLayout.Behavior实现
+RecyclerView的多布局
+仿照ListView，拥有头尾布局
